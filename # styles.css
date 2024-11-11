@@ -1,0 +1,39 @@
+h1 {
+    color: white;
+    font-style: italic;body {
+background-image: url("./Images\ for\ website/bgimage.png");
+color: white;
+}
+    text-align: auto;
+}
+
+p {
+    font-size: larger;
+    font-style: normal;
+    font-weight: 400;
+    font-family: Helvetica, sans-serif;
+    line-height: normal;
+    text-align: left;
+    margin: auto;
+    color: white;
+} 
+header {
+    background-color: plum;
+    color: white;
+    font-size: x-large;
+    font-family: Merriweather, serif;
+    text-align: center;
+    padding: 20px;
+    }
+
+h2  {
+    color: white;
+    font-style: italic;
+    
+}
+
+h3  {
+    color: white;
+    max-width: 300px;
+    font-size: xx-large;
+}
