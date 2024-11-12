@@ -2,4 +2,7 @@ body {
     background-image: url("./Images\ for\ website/bgimage.png");
     color: white;
     }
-         
+ 
+    p {
+        font-style: italic;
+    }
